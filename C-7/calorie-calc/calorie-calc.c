@@ -28,7 +28,7 @@ int main()
         printf("登録は１を、計算は２を、終了は３を入力してください。\n");
         scanf("%d", &mode);
 
-        if(mode == 0)
+        if(mode == 3)
         {
             break;
         }
